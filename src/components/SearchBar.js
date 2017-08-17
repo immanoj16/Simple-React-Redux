@@ -10,10 +10,6 @@ class SearchBar extends Component {
     }
   }
 
-  onInputChange(e) {
-
-  }
-
   render () {
     return (
       <div>
