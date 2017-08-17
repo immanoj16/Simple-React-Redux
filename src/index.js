@@ -4,6 +4,7 @@ import YTSearch from 'youtube-api-search'
 
 import SearchBar from './components/SearchBar'
 import VideoList from './components/VideoList'
+import VideoDetail from './components/VideoDetail'
 
 const API_KEY = 'AIzaSyApv6QTaTn3a5ZallMxHecMhtPku9SbvGg'
 
