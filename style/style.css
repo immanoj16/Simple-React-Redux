@@ -7,8 +7,13 @@
     width: 75%;
 }
 
-.video-item img {
-    max-width: 64px;
+img {
+    width: 160px;
+    height: 94px;
+}
+
+.media-body {
+    padding-left: 10px;
 }
 
 .video-detail .details {
