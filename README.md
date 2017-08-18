@@ -1,6 +1,6 @@
 # Simple-React-Youtube-App
 
-It is a simple react web application that much similar to Youtube in which you can search any video and see them through my application.
+It is a simple react web application that much fill like Youtube in which you can search any video and see them through my application.
 
   * You can clone or download my application, to clone run
     `
